@@ -30,7 +30,7 @@ body {
 
 /* Header */
 header {
-  background: #222;
+  background: #12d042;
   color: #fff;
   padding: 20px 0;
 }
@@ -63,7 +63,7 @@ section {
 h2 {
   margin-bottom: 15px;
   font-size: 24px;
-  color: #444;
+  color: #000000;
 }
 
 /* Project Grid */
@@ -75,7 +75,7 @@ h2 {
 }
 
 .project {
-  background: #c60b14;
+  background: #e896aa;
   padding: 20px;
   border-radius: 8px;
   width: 300px;
